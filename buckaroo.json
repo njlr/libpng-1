@@ -1,0 +1,6 @@
+{
+  "name": "libpng",
+  "dependencies": {
+    "madler/zlib": "1.2.11"
+  }
+}
